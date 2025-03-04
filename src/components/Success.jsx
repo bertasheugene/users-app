@@ -1,5 +1,5 @@
 import React from 'react';
-import successImage from '../../assets/success.svg';
+import successImage from '../assets/success.svg';
 
 export const Success = ({ count, resetSubmitUsers }) => {
   return (
